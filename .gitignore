@@ -6,7 +6,7 @@
 /out-tsc
 
 # dependencies
-EmployeeApp/EmployeeMaster/node_modules
+/EmployeeApp/EmployeeMaster/node_modules
 
 /Employee.Api/bin
 /Employee.Api/.vs
